@@ -1,0 +1,7 @@
+.active-link {
+    color: rgb(127, 142, 255);
+    text-decoration: none;
+}
+.non-active-link{
+    color:rgb(0, 0, 0);
+}
